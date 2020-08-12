@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'chartkick', '~> 3.0', '>= 3.0.1'
+gem 'chartkick', '~> 3.4'
 gem 'groupdate', '~> 4.1'
 
 # Reduces boot times through caching; required in config/boot.rb
